@@ -225,7 +225,7 @@
       "minzoom": 11,
       "layout": {},
       "paint": {
-        "fill-color": "rgb(255,0,0,1)"
+        "fill-color": "rgba(255,0,0,1)"
       }
     },
     {
