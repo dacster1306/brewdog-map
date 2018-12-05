@@ -240,8 +240,8 @@
         "visibility": "visible"
       },
       "paint": {
-        "line-color": "rgba(255, 0, 0, 0.6)",
-        "line-width": 0.8,
+        "line-color": "rgba(255, 0, 0, 1)",
+        "line-width": 1.5,
         "line-opacity": {
           "stops": [
             [
