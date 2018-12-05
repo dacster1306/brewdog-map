@@ -225,7 +225,7 @@
       "minzoom": 11,
       "layout": {},
       "paint": {
-        "fill-color": "#64bff1"
+        "fill-color": "#9b9484"
       }
     },
     {
@@ -241,7 +241,7 @@
       },
       "paint": {
         "line-color": "rgba(255, 0, 0, 1)",
-        "line-width": 1.5,
+        "line-width": 3.5,
         "line-opacity": {
           "stops": [
             [
